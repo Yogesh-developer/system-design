@@ -152,11 +152,4 @@ User -> CloudFront (CDN) -> S3 (Private Bucket via Origin Access Control)
 
 **Q: Why did you get a CORS error when testing this?**
 **A:** Browsers block cross-origin requests by default. Because my frontend (`localhost:5500`) was sending a `PUT` request directly to S3 (`localhost:4566`), the browser sent a preflight `OPTIONS` request first. S3 rejected it because I hadn't explicitly told the S3 bucket to accept `PUT` requests from my frontend's origin via an S3 CORS policy.
-```
 
---- 
-
-**How to use this:**
-1. Save it as `s3-presigned-url-system-design.md`.
-2. Push it to a `system-design` or `notes` repository on your GitHub.
-3. The Mermaid diagram will automatically render as a beautiful visual flowchart directly on GitHub!
