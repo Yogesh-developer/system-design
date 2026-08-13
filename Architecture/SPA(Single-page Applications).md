@@ -1,7 +1,7 @@
 # 📖 The Definitive Guide to Single-Page Applications (SPA)
 
 > **The only architecture document you will ever need.**
-> A masterclass on Single-Page Applications: from the illusion of client-side routing and the Virtual DOM to state management paradigms, data-fetching layers, hydration mechanics, and modern performance optimizations. Written by Frontend Dec, for Frontend Dev.
+> A masterclass on Single-Page Applications: from the illusion of client-side routing and the Virtual DOM to state management paradigms, data-fetching layers, hydration mechanics, and modern performance optimizations. Written by Frontend Dev, for Frontend Dev.
 
 [![Architecture](https://img.shields.io/badge/Focus-Architecture-blue)](https://example.com)
 [![Level](https://img.shields.io/badge/Difficulty-Expert-red)](https://example.com)
