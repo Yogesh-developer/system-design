@@ -1,7 +1,7 @@
 # 📖 The Definitive Guide to Multi-Page Applications (MPA)
 
 > **The only architecture document you will ever need.**
-> A masterclass on Multi-Page Applications: from raw browser internals and network lifecycles to security paradigms, caching hierarchies, and modern hybrid architectures. Written by Frontend Dec, for Frontend Dev.
+> A masterclass on Multi-Page Applications: from raw browser internals and network lifecycles to security paradigms, caching hierarchies, and modern hybrid architectures. Written by Frontend Dev, for Frontend Dev.
 
 [![Architecture](https://img.shields.io/badge/Focus-Architecture-blue)](https://example.com)
 [![Level](https://img.shields.io/badge/Difficulty-Expert-red)](https://example.com)
